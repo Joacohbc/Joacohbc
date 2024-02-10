@@ -10,6 +10,3 @@ I'm a passionate Software Developer who loves technology and enjoys solving prob
 
 ## What You'll Find Here 🧐
 In my repositories, you'll discover a variety of projects, from personal experiments to potentially useful ones for you. I'm constantly exploring different areas and technologies to expand my skills as a developer.
-
-## More about me
-Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/joaqu%C3%ADn-g%C3%A9nova-a4011022a/) for more details or to discuss potential opportunities. Let's connect and explore new possibilities together!
