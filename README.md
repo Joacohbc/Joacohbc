@@ -1,5 +1,3 @@
-[🇪🇸](/README-ES.md)
-
 # Welcome to My Github Profile! 👏👏👏
 Hello there! I'm Joaquin Genova, and I'm excited to have you here on my Github profile. This is where I showcase my passion for coding, share my projects, and connect with fellow developers like you.
 
@@ -12,3 +10,6 @@ I'm a passionate Software Developer who loves technology and enjoys solving prob
 
 ## What You'll Find Here 🧐
 In my repositories, you'll discover a variety of projects, from personal experiments to potentially useful ones for you. I'm constantly exploring different areas and technologies to expand my skills as a developer.
+
+## Other Version
+[Versión en Español 🇪🇸](/README-ES.md)
