@@ -10,3 +10,5 @@ Soy un desarrollador de software apasionado que ama la tecnología y disfruta re
 
 ## Lo que encontrarás aquí 🧐
 En mis repositorios descubrirás una variedad de proyectos, desde experimentos personales hasta proyectos potencialmente útiles para ti. Estoy constantemente explorando diferentes áreas y tecnologías para ampliar mis habilidades como desarrollador.
+
+[ English Version 🇺🇸](/README.md)
