@@ -11,5 +11,4 @@ I'm a passionate Software Developer who loves technology and enjoys solving prob
 ## What You'll Find Here 🧐
 In my repositories, you'll discover a variety of projects, from personal experiments to potentially useful ones for you. I'm constantly exploring different areas and technologies to expand my skills as a developer.
 
-## Other Version
 [Versión en Español 🇪🇸](/README-ES.md)
