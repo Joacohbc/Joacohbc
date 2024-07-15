@@ -3,7 +3,7 @@
 
 ## Mis estadísticas 🔥
 <div>
-  <img src="https://github-readme-stats.vercel.app/api?username=Joacohbc&theme=dark" alt="Estadísticas del idioma de Joacohbc" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Joacohbc&show_icons=true&theme=dark" alt="Estadísticas del idioma de Joacohbc" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Joacohbc&theme=dark&layout=compact" width="355px" alt="Estadísticas del idioma de Joacohbc" />
 </div>
 
