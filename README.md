@@ -2,7 +2,7 @@
 Hello there! I'm Joaquin Genova, and I'm excited to have you here on my Github profile. This is where I showcase my passion for coding, share my projects, and connect with fellow developers like you.
 
 ## My Stats 🔥
-<img src="https://github-readme-stats.vercel.app/api?username=Joacohbc&theme=dark" alt="Joacohbc's Language stats" /> </a>
+<img src="https://github-readme-stats.vercel.app/api?username=Joacohbc&show_icons=true&theme=dark" alt="Joacohbc's Language stats" /> </a>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Joacohbc&theme=dark&layout=compact" width="355px" alt="Joacohbc's Language stats" /></a>
 
 ## About Me 🤙
