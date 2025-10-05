@@ -1,5 +1,5 @@
 # Welcome to My Github Profile! 👏👏👏
-Hello there! I'm Joaquin Genova, and I'm excited to have you here on my Github profile. This is where I showcase my passion for coding, share my projects, and connect with fellow developers like you.
+Hello there! I'm Joaquin, and I'm excited to have you here on my Github profile. This is where I showcase my passion for coding, share my projects, and connect with fellow developers like you.
 
 ## My Stats 🔥
 <img src="https://github-readme-stats.vercel.app/api?username=Joacohbc&show_icons=true&theme=dark" alt="Joacohbc's Language stats" /> </a>
