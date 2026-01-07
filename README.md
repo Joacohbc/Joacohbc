@@ -30,7 +30,7 @@ In my repositories, you'll discover a variety of projects, from personal experim
 [![SonarQube Cloud](https://img.shields.io/badge/SonarQube%20Cloud-126ED3?logo=sonarqubecloud&logoColor=fff)](#)
 
 <div align="center">
-  <i>"Code is my art, and the compiler is my critic."</i><br>
+  <i>"Code is my art, and the compiler is my hater."</i><br>
   &mdash; Me
 </div>
 

@@ -29,7 +29,7 @@ En mis repositorios descubrirás una variedad de proyectos, desde experimentos p
 [![SonarQube Cloud](https://img.shields.io/badge/SonarQube%20Cloud-126ED3?logo=sonarqubecloud&logoColor=fff)](#)
 
 <div align="center">
-  <i>"El código es mi arte, y el compilador es mi crítico."</i><br>
+  <i>"El código es mi arte, y el compilador es mi hater."</i><br>
   &mdash; Yo
 </div>
 
