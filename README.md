@@ -29,4 +29,9 @@ In my repositories, you'll discover a variety of projects, from personal experim
 [![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?logo=google-cloud&logoColor=white)](#)
 [![SonarQube Cloud](https://img.shields.io/badge/SonarQube%20Cloud-126ED3?logo=sonarqubecloud&logoColor=fff)](#)
 
+<div align="center">
+  <i>"Code is my art, and the compiler is my critic."</i><br>
+  &mdash; Me
+</div>
+
 [Versión en Español 🇪🇸](/README-ES.md)
