@@ -2,10 +2,8 @@
 ¡Hola! Soy Joaquin Genova y estoy emocionado de tenerte aquí en mi perfil de Github. Aquí es donde muestro mi pasión por la programacion, comparto mis proyectos y me conecto con compañeros desarrolladores.
 
 ## Mis estadísticas 🔥
-<div>
-  <img src="https://github-readme-stats.vercel.app/api?username=Joacohbc&show_icons=true&theme=dark" alt="Estadísticas del idioma de Joacohbc" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Joacohbc&theme=dark&layout=compact" width="355px" alt="Estadísticas del idioma de Joacohbc" />
-</div>
+<img src="https://github-readme-stats-fast.vercel.app/api?username=Joacohbc&show_icons=true&theme=radical" alt="Joacohbc's Language stats" /> </a>
+<img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Joacohbc&layout=compact&theme=radical" width="355px" alt="Joacohbc's Language stats" /></a>
 
 ## Acerca de mí 🤙
 Soy un desarrollador de software apasionado que ama la tecnología y disfruta resolviendo problemas. Creo que programar es un arte que nos permite crear cosas increíbles y darle forma al futuro (además tener un gran valor en el mercado 🤣).
